@@ -96,12 +96,34 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+header,
+footer {display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+}
+header{
 
+}
+header .content-wrapper {
 
+}
+header figure {
 
+}
+.header-divider{
 
+}
+header nav {
 
+}
+/*mobile styles*/
+.hero-area {
 
+}
+aside {
+
+}
 
 
 
