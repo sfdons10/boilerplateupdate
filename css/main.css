@@ -103,10 +103,14 @@ footer {display: flex;
     flex-flow: row wrap;
 }
 header{
-
+  padding: 15px 0;
 }
 header .content-wrapper {
-
+  margin: 0;
+}
+footer .content-wrapper {
+    width: 55%;
+    margin: 50px 0;
 }
 header figure {
 
@@ -115,7 +119,7 @@ header figure {
 
 }
 header nav {
-
+  width: 60%;
 }
 /*mobile styles*/
 .hero-area {
@@ -124,8 +128,12 @@ header nav {
 aside {
 
 }
-
-
+features p{
+  margin: 0;
+}
+footer p{
+  margin: 0;
+}
 
 
 
